@@ -1,0 +1,2 @@
+Decorator pattern.  The TitledBorder is decorating another border, Etchedborder.
+Component is visually enhanced and the Decorator object manages the component it decorates.
